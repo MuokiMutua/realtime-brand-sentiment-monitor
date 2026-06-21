@@ -1,0 +1,479 @@
+Timestamp,Bank,Mention_Text,Compound_Score,Sentiment_Label
+2026-06-21 15:59:57,GlobalBank,Does anyone know what time the GlobalBank branch opens?,0.0,Neutral
+2026-06-21 15:59:57,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:00:01,NeoFi,Just got my loan approved by NeoFi! So fast. 🚀,0.4753,Positive
+2026-06-21 16:00:01,TrustUnion,Is the TrustUnion ATM network currently working?,0.0,Neutral
+2026-06-21 16:00:01,GlobalBank,Just got my loan approved by GlobalBank! So fast. 🚀,0.4753,Positive
+2026-06-21 16:00:06,TrustUnion,Switched to TrustUnion and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:00:06,TrustUnion,Is the TrustUnion ATM network currently working?,0.0,Neutral
+2026-06-21 16:00:09,TrustUnion,Been on hold for 40 minutes with TrustUnion support. Useless.,-0.0258,Neutral
+2026-06-21 16:00:09,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:00:09,TrustUnion,"Wow, TrustUnion waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:00:12,TrustUnion,Switched to TrustUnion and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:00:12,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:00:12,GlobalBank,Just received my new debit card from GlobalBank in the mail.,0.0,Neutral
+2026-06-21 16:00:16,NeoFi,Switched to NeoFi and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:00:16,GlobalBank,Why did GlobalBank block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:00:16,NeoFi,Loving the new app update from NeoFi. Very smooth.,0.5994,Positive
+2026-06-21 16:00:18,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:00:21,TrustUnion,Just received my new debit card from TrustUnion in the mail.,0.0,Neutral
+2026-06-21 16:00:21,TrustUnion,Is the TrustUnion ATM network currently working?,0.0,Neutral
+2026-06-21 16:00:21,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:00:26,NeoFi,Reviewing the new interest rates posted by NeoFi.,0.4588,Positive
+2026-06-21 16:00:26,NeoFi,Does anyone know what time the NeoFi branch opens?,0.0,Neutral
+2026-06-21 16:00:26,GlobalBank,Great customer service at GlobalBank today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:00:29,NeoFi,"Wow, NeoFi waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:00:33,GlobalBank,Been on hold for 40 minutes with GlobalBank support. Useless.,-0.0258,Neutral
+2026-06-21 16:00:33,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:00:38,TrustUnion,"Wow, TrustUnion waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:00:41,NeoFi,Loving the new app update from NeoFi. Very smooth.,0.5994,Positive
+2026-06-21 16:00:41,GlobalBank,The GlobalBank app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:00:44,NeoFi,Great customer service at NeoFi today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:00:44,NeoFi,Great customer service at NeoFi today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:00:44,GlobalBank,The GlobalBank app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:00:46,TrustUnion,Just received my new debit card from TrustUnion in the mail.,0.0,Neutral
+2026-06-21 16:00:46,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:00:46,TrustUnion,The TrustUnion app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:00:50,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:00:50,TrustUnion,Just got my loan approved by TrustUnion! So fast. 🚀,0.4753,Positive
+2026-06-21 16:00:55,GlobalBank,Applying for a mortgage at GlobalBank tomorrow.,0.0,Neutral
+2026-06-21 16:00:55,TrustUnion,The TrustUnion app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:00:55,TrustUnion,Is the TrustUnion ATM network currently working?,0.0,Neutral
+2026-06-21 16:00:58,GlobalBank,Great customer service at GlobalBank today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:01:01,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:01:01,GlobalBank,Reviewing the new interest rates posted by GlobalBank.,0.4588,Positive
+2026-06-21 16:01:01,NeoFi,Been on hold for 40 minutes with NeoFi support. Useless.,-0.0258,Neutral
+2026-06-21 16:01:05,NeoFi,Just got my loan approved by NeoFi! So fast. 🚀,0.4753,Positive
+2026-06-21 16:01:05,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:01:05,NeoFi,Does anyone know what time the NeoFi branch opens?,0.0,Neutral
+2026-06-21 16:01:07,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:01:07,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:01:12,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:01:12,TrustUnion,"Wow, TrustUnion waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:01:16,GlobalBank,Loving the new app update from GlobalBank. Very smooth.,0.5994,Positive
+2026-06-21 16:01:16,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:01:19,GlobalBank,Been on hold for 40 minutes with GlobalBank support. Useless.,-0.0258,Neutral
+2026-06-21 16:01:19,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:01:19,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:01:24,NeoFi,Does anyone know what time the NeoFi branch opens?,0.0,Neutral
+2026-06-21 16:01:26,TrustUnion,"Wow, TrustUnion waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:01:26,NeoFi,Switched to NeoFi and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:01:26,GlobalBank,Transfer failed but the money left my account. Fix this GlobalBank!,-0.3489,Negative
+2026-06-21 16:01:30,GlobalBank,"Wow, GlobalBank waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:01:33,NeoFi,Why did NeoFi block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:01:33,TrustUnion,Applying for a mortgage at TrustUnion tomorrow.,0.0,Neutral
+2026-06-21 16:01:33,TrustUnion,Switched to TrustUnion and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:01:36,GlobalBank,Reviewing the new interest rates posted by GlobalBank.,0.4588,Positive
+2026-06-21 16:01:36,NeoFi,Does anyone know what time the NeoFi branch opens?,0.0,Neutral
+2026-06-21 16:01:36,NeoFi,Why did NeoFi block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:01:39,GlobalBank,Been on hold for 40 minutes with GlobalBank support. Useless.,-0.0258,Neutral
+2026-06-21 16:01:39,TrustUnion,Is the TrustUnion ATM network currently working?,0.0,Neutral
+2026-06-21 16:01:39,GlobalBank,Why did GlobalBank block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:01:41,TrustUnion,Applying for a mortgage at TrustUnion tomorrow.,0.0,Neutral
+2026-06-21 16:01:41,NeoFi,Transfer failed but the money left my account. Fix this NeoFi!,-0.3489,Negative
+2026-06-21 16:01:41,TrustUnion,Just got my loan approved by TrustUnion! So fast. 🚀,0.4753,Positive
+2026-06-21 16:01:46,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:01:46,NeoFi,Why did NeoFi block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:01:46,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:01:51,NeoFi,Just got my loan approved by NeoFi! So fast. 🚀,0.4753,Positive
+2026-06-21 16:01:51,TrustUnion,Just got my loan approved by TrustUnion! So fast. 🚀,0.4753,Positive
+2026-06-21 16:01:51,GlobalBank,Hidden fees on my account. Leaving GlobalBank today. Unacceptable.,-0.4588,Negative
+2026-06-21 16:01:54,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:01:58,NeoFi,Switched to NeoFi and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:01:58,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:02:02,NeoFi,Reviewing the new interest rates posted by NeoFi.,0.4588,Positive
+2026-06-21 16:02:27,GlobalBank,Does anyone know what time the GlobalBank branch opens?,0.0,Neutral
+2026-06-21 16:02:27,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:02:27,GlobalBank,Great customer service at GlobalBank today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:02:29,GlobalBank,Great customer service at GlobalBank today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:02:29,TrustUnion,"Wow, TrustUnion waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:02:32,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:02:32,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:02:32,GlobalBank,Applying for a mortgage at GlobalBank tomorrow.,0.0,Neutral
+2026-06-21 16:02:35,TrustUnion,Great customer service at TrustUnion today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:02:35,NeoFi,Does anyone know what time the NeoFi branch opens?,0.0,Neutral
+2026-06-21 16:02:35,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:02:38,TrustUnion,"Wow, TrustUnion waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:02:38,GlobalBank,Loving the new app update from GlobalBank. Very smooth.,0.5994,Positive
+2026-06-21 16:02:42,TrustUnion,The TrustUnion app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:02:42,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:02:42,TrustUnion,Just received my new debit card from TrustUnion in the mail.,0.0,Neutral
+2026-06-21 16:02:44,TrustUnion,Transfer failed but the money left my account. Fix this TrustUnion!,-0.3489,Negative
+2026-06-21 16:02:44,NeoFi,Reviewing the new interest rates posted by NeoFi.,0.4588,Positive
+2026-06-21 16:02:49,GlobalBank,Transfer failed but the money left my account. Fix this GlobalBank!,-0.3489,Negative
+2026-06-21 16:02:49,TrustUnion,Switched to TrustUnion and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:02:49,GlobalBank,Switched to GlobalBank and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:02:53,GlobalBank,"Wow, GlobalBank waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:02:55,GlobalBank,Does anyone know what time the GlobalBank branch opens?,0.0,Neutral
+2026-06-21 16:03:00,TrustUnion,"Wow, TrustUnion waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:03:03,GlobalBank,Loving the new app update from GlobalBank. Very smooth.,0.5994,Positive
+2026-06-21 16:03:03,GlobalBank,"Wow, GlobalBank waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:03:06,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:03:10,TrustUnion,Been on hold for 40 minutes with TrustUnion support. Useless.,-0.0258,Neutral
+2026-06-21 16:03:10,GlobalBank,Applying for a mortgage at GlobalBank tomorrow.,0.0,Neutral
+2026-06-21 16:03:13,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:03:15,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:03:15,NeoFi,Just got my loan approved by NeoFi! So fast. 🚀,0.4753,Positive
+2026-06-21 16:03:20,GlobalBank,Loving the new app update from GlobalBank. Very smooth.,0.5994,Positive
+2026-06-21 16:03:20,GlobalBank,Hidden fees on my account. Leaving GlobalBank today. Unacceptable.,-0.4588,Negative
+2026-06-21 16:03:20,NeoFi,Switched to NeoFi and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:03:23,NeoFi,Does anyone know what time the NeoFi branch opens?,0.0,Neutral
+2026-06-21 16:03:26,TrustUnion,Switched to TrustUnion and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:03:26,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:03:29,NeoFi,Switched to NeoFi and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:03:29,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:03:33,TrustUnion,Is the TrustUnion ATM network currently working?,0.0,Neutral
+2026-06-21 16:03:33,NeoFi,"Wow, NeoFi waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:03:36,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:03:40,TrustUnion,Switched to TrustUnion and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:03:40,TrustUnion,Hidden fees on my account. Leaving TrustUnion today. Unacceptable.,-0.4588,Negative
+2026-06-21 16:03:43,TrustUnion,Is the TrustUnion ATM network currently working?,0.0,Neutral
+2026-06-21 16:03:47,GlobalBank,Switched to GlobalBank and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:03:47,GlobalBank,Great customer service at GlobalBank today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:03:47,GlobalBank,Just received my new debit card from GlobalBank in the mail.,0.0,Neutral
+2026-06-21 16:03:50,TrustUnion,Does anyone know what time the TrustUnion branch opens?,0.0,Neutral
+2026-06-21 16:03:50,GlobalBank,Why did GlobalBank block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:03:54,NeoFi,Just got my loan approved by NeoFi! So fast. 🚀,0.4753,Positive
+2026-06-21 16:03:54,TrustUnion,Been on hold for 40 minutes with TrustUnion support. Useless.,-0.0258,Neutral
+2026-06-21 16:03:57,NeoFi,"Wow, NeoFi waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:04:01,GlobalBank,Why did GlobalBank block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:04:03,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:04:08,TrustUnion,Is the TrustUnion ATM network currently working?,0.0,Neutral
+2026-06-21 16:04:08,GlobalBank,Loving the new app update from GlobalBank. Very smooth.,0.5994,Positive
+2026-06-21 16:04:08,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:04:11,NeoFi,Does anyone know what time the NeoFi branch opens?,0.0,Neutral
+2026-06-21 16:04:11,NeoFi,"Wow, NeoFi waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:04:11,NeoFi,Just got my loan approved by NeoFi! So fast. 🚀,0.4753,Positive
+2026-06-21 16:04:15,NeoFi,Reviewing the new interest rates posted by NeoFi.,0.4588,Positive
+2026-06-21 16:04:18,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:04:18,TrustUnion,Applying for a mortgage at TrustUnion tomorrow.,0.0,Neutral
+2026-06-21 16:04:18,TrustUnion,Just received my new debit card from TrustUnion in the mail.,0.0,Neutral
+2026-06-21 16:04:21,GlobalBank,Loving the new app update from GlobalBank. Very smooth.,0.5994,Positive
+2026-06-21 16:04:21,NeoFi,Hidden fees on my account. Leaving NeoFi today. Unacceptable.,-0.4588,Negative
+2026-06-21 16:04:25,NeoFi,Why did NeoFi block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:04:25,GlobalBank,Loving the new app update from GlobalBank. Very smooth.,0.5994,Positive
+2026-06-21 16:04:25,NeoFi,Reviewing the new interest rates posted by NeoFi.,0.4588,Positive
+2026-06-21 16:04:29,GlobalBank,The GlobalBank app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:04:29,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:04:33,TrustUnion,Does anyone know what time the TrustUnion branch opens?,0.0,Neutral
+2026-06-21 16:04:33,NeoFi,"Wow, NeoFi waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:04:37,GlobalBank,Applying for a mortgage at GlobalBank tomorrow.,0.0,Neutral
+2026-06-21 16:04:41,TrustUnion,Is the TrustUnion ATM network currently working?,0.0,Neutral
+2026-06-21 16:04:44,TrustUnion,Just received my new debit card from TrustUnion in the mail.,0.0,Neutral
+2026-06-21 16:04:44,GlobalBank,Loving the new app update from GlobalBank. Very smooth.,0.5994,Positive
+2026-06-21 16:04:49,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:04:49,GlobalBank,Switched to GlobalBank and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:04:49,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:04:51,TrustUnion,Hidden fees on my account. Leaving TrustUnion today. Unacceptable.,-0.4588,Negative
+2026-06-21 16:04:51,NeoFi,Loving the new app update from NeoFi. Very smooth.,0.5994,Positive
+2026-06-21 16:04:51,TrustUnion,Just got my loan approved by TrustUnion! So fast. 🚀,0.4753,Positive
+2026-06-21 16:04:54,TrustUnion,Does anyone know what time the TrustUnion branch opens?,0.0,Neutral
+2026-06-21 16:04:54,GlobalBank,Why did GlobalBank block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:04:54,TrustUnion,Transfer failed but the money left my account. Fix this TrustUnion!,-0.3489,Negative
+2026-06-21 16:04:59,NeoFi,Transfer failed but the money left my account. Fix this NeoFi!,-0.3489,Negative
+2026-06-21 16:05:03,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:05:03,TrustUnion,The TrustUnion app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:05:06,TrustUnion,Switched to TrustUnion and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:05:06,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:05:09,GlobalBank,Just got my loan approved by GlobalBank! So fast. 🚀,0.4753,Positive
+2026-06-21 16:05:09,GlobalBank,Applying for a mortgage at GlobalBank tomorrow.,0.0,Neutral
+2026-06-21 16:05:09,NeoFi,Does anyone know what time the NeoFi branch opens?,0.0,Neutral
+2026-06-21 16:05:12,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:05:15,GlobalBank,Applying for a mortgage at GlobalBank tomorrow.,0.0,Neutral
+2026-06-21 16:05:19,GlobalBank,Applying for a mortgage at GlobalBank tomorrow.,0.0,Neutral
+2026-06-21 16:05:19,TrustUnion,Switched to TrustUnion and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:05:19,GlobalBank,Just got my loan approved by GlobalBank! So fast. 🚀,0.4753,Positive
+2026-06-21 16:05:24,GlobalBank,Been on hold for 40 minutes with GlobalBank support. Useless.,-0.0258,Neutral
+2026-06-21 16:05:24,GlobalBank,Hidden fees on my account. Leaving GlobalBank today. Unacceptable.,-0.4588,Negative
+2026-06-21 16:05:24,GlobalBank,Does anyone know what time the GlobalBank branch opens?,0.0,Neutral
+2026-06-21 16:05:27,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:05:27,GlobalBank,Does anyone know what time the GlobalBank branch opens?,0.0,Neutral
+2026-06-21 16:05:27,NeoFi,Does anyone know what time the NeoFi branch opens?,0.0,Neutral
+2026-06-21 16:05:31,TrustUnion,Transfer failed but the money left my account. Fix this TrustUnion!,-0.3489,Negative
+2026-06-21 16:05:31,GlobalBank,Just received my new debit card from GlobalBank in the mail.,0.0,Neutral
+2026-06-21 16:05:31,NeoFi,The NeoFi app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:05:34,TrustUnion,Applying for a mortgage at TrustUnion tomorrow.,0.0,Neutral
+2026-06-21 16:05:34,NeoFi,Why did NeoFi block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:05:34,TrustUnion,Loving the new app update from TrustUnion. Very smooth.,0.5994,Positive
+2026-06-21 16:05:39,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:05:42,GlobalBank,The GlobalBank app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:05:42,TrustUnion,Great customer service at TrustUnion today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:05:42,GlobalBank,Does anyone know what time the GlobalBank branch opens?,0.0,Neutral
+2026-06-21 16:05:46,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:05:48,NeoFi,Hidden fees on my account. Leaving NeoFi today. Unacceptable.,-0.4588,Negative
+2026-06-21 16:05:48,GlobalBank,Loving the new app update from GlobalBank. Very smooth.,0.5994,Positive
+2026-06-21 16:05:48,NeoFi,"Wow, NeoFi waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:05:52,TrustUnion,Is the TrustUnion ATM network currently working?,0.0,Neutral
+2026-06-21 16:05:52,GlobalBank,Why did GlobalBank block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:05:57,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:05:57,GlobalBank,Applying for a mortgage at GlobalBank tomorrow.,0.0,Neutral
+2026-06-21 16:06:00,GlobalBank,Loving the new app update from GlobalBank. Very smooth.,0.5994,Positive
+2026-06-21 16:06:00,TrustUnion,Does anyone know what time the TrustUnion branch opens?,0.0,Neutral
+2026-06-21 16:06:00,NeoFi,Loving the new app update from NeoFi. Very smooth.,0.5994,Positive
+2026-06-21 16:06:05,TrustUnion,Why did TrustUnion block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:06:08,NeoFi,Just got my loan approved by NeoFi! So fast. 🚀,0.4753,Positive
+2026-06-21 16:06:10,GlobalBank,"Wow, GlobalBank waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:06:15,TrustUnion,Just received my new debit card from TrustUnion in the mail.,0.0,Neutral
+2026-06-21 16:06:15,TrustUnion,Transfer failed but the money left my account. Fix this TrustUnion!,-0.3489,Negative
+2026-06-21 16:06:19,GlobalBank,Applying for a mortgage at GlobalBank tomorrow.,0.0,Neutral
+2026-06-21 16:06:23,GlobalBank,Reviewing the new interest rates posted by GlobalBank.,0.4588,Positive
+2026-06-21 16:06:23,NeoFi,Just got my loan approved by NeoFi! So fast. 🚀,0.4753,Positive
+2026-06-21 16:06:23,GlobalBank,Just got my loan approved by GlobalBank! So fast. 🚀,0.4753,Positive
+2026-06-21 16:06:27,GlobalBank,Just received my new debit card from GlobalBank in the mail.,0.0,Neutral
+2026-06-21 16:06:27,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:06:31,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:06:31,GlobalBank,Great customer service at GlobalBank today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:06:31,TrustUnion,Applying for a mortgage at TrustUnion tomorrow.,0.0,Neutral
+2026-06-21 16:06:36,NeoFi,Great customer service at NeoFi today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:06:36,TrustUnion,Just received my new debit card from TrustUnion in the mail.,0.0,Neutral
+2026-06-21 16:06:36,TrustUnion,Hidden fees on my account. Leaving TrustUnion today. Unacceptable.,-0.4588,Negative
+2026-06-21 16:06:39,NeoFi,Does anyone know what time the NeoFi branch opens?,0.0,Neutral
+2026-06-21 16:06:39,TrustUnion,Hidden fees on my account. Leaving TrustUnion today. Unacceptable.,-0.4588,Negative
+2026-06-21 16:06:42,TrustUnion,Just received my new debit card from TrustUnion in the mail.,0.0,Neutral
+2026-06-21 16:06:42,TrustUnion,Applying for a mortgage at TrustUnion tomorrow.,0.0,Neutral
+2026-06-21 16:06:46,GlobalBank,Been on hold for 40 minutes with GlobalBank support. Useless.,-0.0258,Neutral
+2026-06-21 16:06:46,GlobalBank,"Wow, GlobalBank waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:06:46,NeoFi,The NeoFi app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:06:49,TrustUnion,Just received my new debit card from TrustUnion in the mail.,0.0,Neutral
+2026-06-21 16:06:51,TrustUnion,"Wow, TrustUnion waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:06:51,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:06:51,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:06:55,NeoFi,Been on hold for 40 minutes with NeoFi support. Useless.,-0.0258,Neutral
+2026-06-21 16:06:55,TrustUnion,Applying for a mortgage at TrustUnion tomorrow.,0.0,Neutral
+2026-06-21 16:06:55,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:06:59,GlobalBank,Just received my new debit card from GlobalBank in the mail.,0.0,Neutral
+2026-06-21 16:06:59,NeoFi,Why did NeoFi block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:07:03,TrustUnion,The TrustUnion app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:07:03,GlobalBank,Does anyone know what time the GlobalBank branch opens?,0.0,Neutral
+2026-06-21 16:07:03,NeoFi,"Wow, NeoFi waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:07:07,TrustUnion,Switched to TrustUnion and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:07:07,GlobalBank,Hidden fees on my account. Leaving GlobalBank today. Unacceptable.,-0.4588,Negative
+2026-06-21 16:07:07,TrustUnion,Transfer failed but the money left my account. Fix this TrustUnion!,-0.3489,Negative
+2026-06-21 16:07:12,TrustUnion,Applying for a mortgage at TrustUnion tomorrow.,0.0,Neutral
+2026-06-21 16:07:12,TrustUnion,Is the TrustUnion ATM network currently working?,0.0,Neutral
+2026-06-21 16:07:16,GlobalBank,Switched to GlobalBank and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:07:16,GlobalBank,Applying for a mortgage at GlobalBank tomorrow.,0.0,Neutral
+2026-06-21 16:07:16,NeoFi,Great customer service at NeoFi today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:07:21,TrustUnion,Great customer service at TrustUnion today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:07:23,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:07:23,NeoFi,Does anyone know what time the NeoFi branch opens?,0.0,Neutral
+2026-06-21 16:07:23,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:07:27,GlobalBank,Great customer service at GlobalBank today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:07:30,TrustUnion,Hidden fees on my account. Leaving TrustUnion today. Unacceptable.,-0.4588,Negative
+2026-06-21 16:07:30,GlobalBank,"Wow, GlobalBank waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:07:30,TrustUnion,Transfer failed but the money left my account. Fix this TrustUnion!,-0.3489,Negative
+2026-06-21 16:07:34,GlobalBank,Applying for a mortgage at GlobalBank tomorrow.,0.0,Neutral
+2026-06-21 16:07:34,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:07:39,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:07:39,TrustUnion,Loving the new app update from TrustUnion. Very smooth.,0.5994,Positive
+2026-06-21 16:07:39,TrustUnion,Been on hold for 40 minutes with TrustUnion support. Useless.,-0.0258,Neutral
+2026-06-21 16:07:41,TrustUnion,Does anyone know what time the TrustUnion branch opens?,0.0,Neutral
+2026-06-21 16:07:43,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:07:43,NeoFi,Reviewing the new interest rates posted by NeoFi.,0.4588,Positive
+2026-06-21 16:07:46,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:07:48,GlobalBank,Great customer service at GlobalBank today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:07:48,GlobalBank,Just received my new debit card from GlobalBank in the mail.,0.0,Neutral
+2026-06-21 16:07:48,NeoFi,Loving the new app update from NeoFi. Very smooth.,0.5994,Positive
+2026-06-21 16:07:51,NeoFi,The NeoFi app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:07:54,NeoFi,Switched to NeoFi and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:07:54,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:07:58,NeoFi,Switched to NeoFi and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:08:01,NeoFi,Hidden fees on my account. Leaving NeoFi today. Unacceptable.,-0.4588,Negative
+2026-06-21 16:08:01,GlobalBank,Why did GlobalBank block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:08:01,NeoFi,Transfer failed but the money left my account. Fix this NeoFi!,-0.3489,Negative
+2026-06-21 16:08:05,GlobalBank,Been on hold for 40 minutes with GlobalBank support. Useless.,-0.0258,Neutral
+2026-06-21 16:08:08,TrustUnion,Hidden fees on my account. Leaving TrustUnion today. Unacceptable.,-0.4588,Negative
+2026-06-21 16:08:08,GlobalBank,Applying for a mortgage at GlobalBank tomorrow.,0.0,Neutral
+2026-06-21 16:08:10,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:08:10,TrustUnion,The TrustUnion app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:08:14,TrustUnion,The TrustUnion app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:08:14,GlobalBank,"Wow, GlobalBank waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:08:19,NeoFi,The NeoFi app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:08:21,GlobalBank,Does anyone know what time the GlobalBank branch opens?,0.0,Neutral
+2026-06-21 16:08:24,TrustUnion,Applying for a mortgage at TrustUnion tomorrow.,0.0,Neutral
+2026-06-21 16:08:24,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:08:24,GlobalBank,Reviewing the new interest rates posted by GlobalBank.,0.4588,Positive
+2026-06-21 16:08:28,TrustUnion,Does anyone know what time the TrustUnion branch opens?,0.0,Neutral
+2026-06-21 16:08:32,TrustUnion,Applying for a mortgage at TrustUnion tomorrow.,0.0,Neutral
+2026-06-21 16:08:36,GlobalBank,Just got my loan approved by GlobalBank! So fast. 🚀,0.4753,Positive
+2026-06-21 16:08:39,TrustUnion,Does anyone know what time the TrustUnion branch opens?,0.0,Neutral
+2026-06-21 16:08:44,NeoFi,Does anyone know what time the NeoFi branch opens?,0.0,Neutral
+2026-06-21 16:08:44,GlobalBank,Why did GlobalBank block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:08:44,TrustUnion,Hidden fees on my account. Leaving TrustUnion today. Unacceptable.,-0.4588,Negative
+2026-06-21 16:08:47,GlobalBank,Why did GlobalBank block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:08:47,GlobalBank,Great customer service at GlobalBank today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:08:51,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:08:51,GlobalBank,Why did GlobalBank block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:08:54,NeoFi,Does anyone know what time the NeoFi branch opens?,0.0,Neutral
+2026-06-21 16:08:54,NeoFi,Does anyone know what time the NeoFi branch opens?,0.0,Neutral
+2026-06-21 16:08:54,TrustUnion,Loving the new app update from TrustUnion. Very smooth.,0.5994,Positive
+2026-06-21 16:08:58,TrustUnion,Applying for a mortgage at TrustUnion tomorrow.,0.0,Neutral
+2026-06-21 16:08:58,NeoFi,Reviewing the new interest rates posted by NeoFi.,0.4588,Positive
+2026-06-21 16:09:02,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:09:04,NeoFi,Why did NeoFi block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:09:04,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:09:04,NeoFi,Just got my loan approved by NeoFi! So fast. 🚀,0.4753,Positive
+2026-06-21 16:09:08,GlobalBank,Does anyone know what time the GlobalBank branch opens?,0.0,Neutral
+2026-06-21 16:09:08,TrustUnion,Been on hold for 40 minutes with TrustUnion support. Useless.,-0.0258,Neutral
+2026-06-21 16:09:08,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:09:12,GlobalBank,Reviewing the new interest rates posted by GlobalBank.,0.4588,Positive
+2026-06-21 16:09:12,NeoFi,The NeoFi app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:09:16,NeoFi,Switched to NeoFi and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:09:16,GlobalBank,Does anyone know what time the GlobalBank branch opens?,0.0,Neutral
+2026-06-21 16:09:16,GlobalBank,Why did GlobalBank block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:09:18,TrustUnion,Applying for a mortgage at TrustUnion tomorrow.,0.0,Neutral
+2026-06-21 16:09:18,TrustUnion,Just got my loan approved by TrustUnion! So fast. 🚀,0.4753,Positive
+2026-06-21 16:09:22,GlobalBank,Reviewing the new interest rates posted by GlobalBank.,0.4588,Positive
+2026-06-21 16:09:22,GlobalBank,Just got my loan approved by GlobalBank! So fast. 🚀,0.4753,Positive
+2026-06-21 16:09:22,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:09:26,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:09:29,NeoFi,Switched to NeoFi and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:09:32,NeoFi,Switched to NeoFi and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:09:32,TrustUnion,Hidden fees on my account. Leaving TrustUnion today. Unacceptable.,-0.4588,Negative
+2026-06-21 16:09:32,NeoFi,Why did NeoFi block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:09:36,GlobalBank,Loving the new app update from GlobalBank. Very smooth.,0.5994,Positive
+2026-06-21 16:09:36,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:09:41,TrustUnion,Great customer service at TrustUnion today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:09:41,GlobalBank,Reviewing the new interest rates posted by GlobalBank.,0.4588,Positive
+2026-06-21 16:09:43,TrustUnion,Just received my new debit card from TrustUnion in the mail.,0.0,Neutral
+2026-06-21 16:09:43,TrustUnion,Been on hold for 40 minutes with TrustUnion support. Useless.,-0.0258,Neutral
+2026-06-21 16:09:47,TrustUnion,Been on hold for 40 minutes with TrustUnion support. Useless.,-0.0258,Neutral
+2026-06-21 16:09:47,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:09:52,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:09:52,TrustUnion,Is the TrustUnion ATM network currently working?,0.0,Neutral
+2026-06-21 16:09:56,TrustUnion,Is the TrustUnion ATM network currently working?,0.0,Neutral
+2026-06-21 16:09:59,NeoFi,Loving the new app update from NeoFi. Very smooth.,0.5994,Positive
+2026-06-21 16:10:03,TrustUnion,Does anyone know what time the TrustUnion branch opens?,0.0,Neutral
+2026-06-21 16:10:03,NeoFi,"Wow, NeoFi waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:10:03,NeoFi,Reviewing the new interest rates posted by NeoFi.,0.4588,Positive
+2026-06-21 16:10:08,TrustUnion,Loving the new app update from TrustUnion. Very smooth.,0.5994,Positive
+2026-06-21 16:10:12,TrustUnion,Just got my loan approved by TrustUnion! So fast. 🚀,0.4753,Positive
+2026-06-21 16:10:15,GlobalBank,Loving the new app update from GlobalBank. Very smooth.,0.5994,Positive
+2026-06-21 16:10:15,TrustUnion,Transfer failed but the money left my account. Fix this TrustUnion!,-0.3489,Negative
+2026-06-21 16:10:15,TrustUnion,Great customer service at TrustUnion today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:10:19,TrustUnion,Applying for a mortgage at TrustUnion tomorrow.,0.0,Neutral
+2026-06-21 16:10:19,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:10:19,GlobalBank,Reviewing the new interest rates posted by GlobalBank.,0.4588,Positive
+2026-06-21 16:10:23,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:10:27,TrustUnion,Switched to TrustUnion and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:10:27,GlobalBank,Great customer service at GlobalBank today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:10:31,NeoFi,Reviewing the new interest rates posted by NeoFi.,0.4588,Positive
+2026-06-21 16:10:31,NeoFi,Great customer service at NeoFi today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:10:31,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:10:33,NeoFi,Loving the new app update from NeoFi. Very smooth.,0.5994,Positive
+2026-06-21 16:10:33,GlobalBank,Great customer service at GlobalBank today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:10:33,GlobalBank,Loving the new app update from GlobalBank. Very smooth.,0.5994,Positive
+2026-06-21 16:10:38,GlobalBank,Just received my new debit card from GlobalBank in the mail.,0.0,Neutral
+2026-06-21 16:10:40,NeoFi,Switched to NeoFi and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:10:40,NeoFi,"Wow, NeoFi waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:10:43,NeoFi,"Wow, NeoFi waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:10:43,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:10:43,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:10:46,GlobalBank,Reviewing the new interest rates posted by GlobalBank.,0.4588,Positive
+2026-06-21 16:10:46,NeoFi,Loving the new app update from NeoFi. Very smooth.,0.5994,Positive
+2026-06-21 16:10:46,NeoFi,Does anyone know what time the NeoFi branch opens?,0.0,Neutral
+2026-06-21 16:10:50,GlobalBank,Just received my new debit card from GlobalBank in the mail.,0.0,Neutral
+2026-06-21 16:10:50,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:10:52,TrustUnion,Just received my new debit card from TrustUnion in the mail.,0.0,Neutral
+2026-06-21 16:10:52,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:10:56,NeoFi,"Wow, NeoFi waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:10:56,GlobalBank,Great customer service at GlobalBank today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:10:56,TrustUnion,Just got my loan approved by TrustUnion! So fast. 🚀,0.4753,Positive
+2026-06-21 16:10:59,NeoFi,Reviewing the new interest rates posted by NeoFi.,0.4588,Positive
+2026-06-21 16:11:04,GlobalBank,Just got my loan approved by GlobalBank! So fast. 🚀,0.4753,Positive
+2026-06-21 16:11:04,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:11:04,TrustUnion,The TrustUnion app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:11:09,GlobalBank,Just got my loan approved by GlobalBank! So fast. 🚀,0.4753,Positive
+2026-06-21 16:11:09,NeoFi,Why did NeoFi block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:11:13,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:11:13,NeoFi,Switched to NeoFi and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:11:16,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:11:19,TrustUnion,Applying for a mortgage at TrustUnion tomorrow.,0.0,Neutral
+2026-06-21 16:11:19,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:11:19,GlobalBank,Reviewing the new interest rates posted by GlobalBank.,0.4588,Positive
+2026-06-21 16:11:23,NeoFi,Why did NeoFi block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:11:26,GlobalBank,Does anyone know what time the GlobalBank branch opens?,0.0,Neutral
+2026-06-21 16:11:26,NeoFi,Great customer service at NeoFi today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:11:29,NeoFi,"Wow, NeoFi waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:11:29,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:11:29,GlobalBank,Does anyone know what time the GlobalBank branch opens?,0.0,Neutral
+2026-06-21 16:11:32,NeoFi,Why did NeoFi block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:11:36,TrustUnion,The TrustUnion app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:11:36,TrustUnion,Great customer service at TrustUnion today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:11:36,TrustUnion,"Wow, TrustUnion waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:11:40,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:11:40,NeoFi,Switched to NeoFi and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:11:44,TrustUnion,Just received my new debit card from TrustUnion in the mail.,0.0,Neutral
+2026-06-21 16:11:46,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:11:46,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:11:46,NeoFi,Just got my loan approved by NeoFi! So fast. 🚀,0.4753,Positive
+2026-06-21 16:11:50,GlobalBank,Reviewing the new interest rates posted by GlobalBank.,0.4588,Positive
+2026-06-21 16:11:53,TrustUnion,"Wow, TrustUnion waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:11:56,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:11:56,TrustUnion,Just got my loan approved by TrustUnion! So fast. 🚀,0.4753,Positive
+2026-06-21 16:11:56,NeoFi,Does anyone know what time the NeoFi branch opens?,0.0,Neutral
+2026-06-21 16:11:58,TrustUnion,Does anyone know what time the TrustUnion branch opens?,0.0,Neutral
+2026-06-21 16:12:02,TrustUnion,Great customer service at TrustUnion today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:12:02,GlobalBank,Applying for a mortgage at GlobalBank tomorrow.,0.0,Neutral
+2026-06-21 16:12:05,TrustUnion,Just received my new debit card from TrustUnion in the mail.,0.0,Neutral
+2026-06-21 16:12:10,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:12:10,GlobalBank,Just got my loan approved by GlobalBank! So fast. 🚀,0.4753,Positive
+2026-06-21 16:12:10,TrustUnion,Great customer service at TrustUnion today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:12:14,GlobalBank,"Wow, GlobalBank waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:12:18,TrustUnion,Does anyone know what time the TrustUnion branch opens?,0.0,Neutral
+2026-06-21 16:12:21,GlobalBank,"Wow, GlobalBank waived my late fee. Thank you! 🙏",0.7644,Positive
+2026-06-21 16:12:21,GlobalBank,Reviewing the new interest rates posted by GlobalBank.,0.4588,Positive
+2026-06-21 16:12:24,TrustUnion,Switched to TrustUnion and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:12:24,GlobalBank,Just got my loan approved by GlobalBank! So fast. 🚀,0.4753,Positive
+2026-06-21 16:12:26,TrustUnion,Just received my new debit card from TrustUnion in the mail.,0.0,Neutral
+2026-06-21 16:12:26,TrustUnion,Does anyone know what time the TrustUnion branch opens?,0.0,Neutral
+2026-06-21 16:12:26,GlobalBank,Been on hold for 40 minutes with GlobalBank support. Useless.,-0.0258,Neutral
+2026-06-21 16:12:29,TrustUnion,The TrustUnion app is down AGAIN. I can't access my money! 😡,0.0,Neutral
+2026-06-21 16:12:32,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:12:32,GlobalBank,Reviewing the new interest rates posted by GlobalBank.,0.4588,Positive
+2026-06-21 16:12:36,GlobalBank,Switched to GlobalBank and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:12:38,GlobalBank,Just received my new debit card from GlobalBank in the mail.,0.0,Neutral
+2026-06-21 16:12:38,GlobalBank,Applying for a mortgage at GlobalBank tomorrow.,0.0,Neutral
+2026-06-21 16:12:43,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:12:45,GlobalBank,Does anyone know what time the GlobalBank branch opens?,0.0,Neutral
+2026-06-21 16:12:45,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:12:49,TrustUnion,Applying for a mortgage at TrustUnion tomorrow.,0.0,Neutral
+2026-06-21 16:12:52,NeoFi,Does anyone know what time the NeoFi branch opens?,0.0,Neutral
+2026-06-21 16:12:55,NeoFi,Transfer failed but the money left my account. Fix this NeoFi!,-0.3489,Negative
+2026-06-21 16:13:00,NeoFi,Loving the new app update from NeoFi. Very smooth.,0.5994,Positive
+2026-06-21 16:13:04,GlobalBank,Hidden fees on my account. Leaving GlobalBank today. Unacceptable.,-0.4588,Negative
+2026-06-21 16:13:04,GlobalBank,Loving the new app update from GlobalBank. Very smooth.,0.5994,Positive
+2026-06-21 16:13:04,TrustUnion,Is the TrustUnion ATM network currently working?,0.0,Neutral
+2026-06-21 16:13:06,NeoFi,Switched to NeoFi and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:13:09,GlobalBank,Does anyone know what time the GlobalBank branch opens?,0.0,Neutral
+2026-06-21 16:13:09,TrustUnion,Applying for a mortgage at TrustUnion tomorrow.,0.0,Neutral
+2026-06-21 16:13:09,NeoFi,Reviewing the new interest rates posted by NeoFi.,0.4588,Positive
+2026-06-21 16:13:12,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:13:17,TrustUnion,Great customer service at TrustUnion today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:13:17,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:13:17,NeoFi,Switched to NeoFi and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:13:19,TrustUnion,Applying for a mortgage at TrustUnion tomorrow.,0.0,Neutral
+2026-06-21 16:13:19,TrustUnion,Great customer service at TrustUnion today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:13:24,GlobalBank,Applying for a mortgage at GlobalBank tomorrow.,0.0,Neutral
+2026-06-21 16:13:24,GlobalBank,Just received my new debit card from GlobalBank in the mail.,0.0,Neutral
+2026-06-21 16:13:24,GlobalBank,Been on hold for 40 minutes with GlobalBank support. Useless.,-0.0258,Neutral
+2026-06-21 16:13:26,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:13:26,TrustUnion,Does anyone know what time the TrustUnion branch opens?,0.0,Neutral
+2026-06-21 16:13:26,NeoFi,Is the NeoFi ATM network currently working?,0.0,Neutral
+2026-06-21 16:13:29,GlobalBank,Switched to GlobalBank and the UI is just lightyears ahead.,0.0,Neutral
+2026-06-21 16:13:29,NeoFi,Applying for a mortgage at NeoFi tomorrow.,0.0,Neutral
+2026-06-21 16:13:29,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:13:32,GlobalBank,Great customer service at GlobalBank today. Resolved my issue in 5 mins!,0.7263,Positive
+2026-06-21 16:13:32,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:13:36,NeoFi,Loving the new app update from NeoFi. Very smooth.,0.5994,Positive
+2026-06-21 16:13:40,GlobalBank,Is the GlobalBank ATM network currently working?,0.0,Neutral
+2026-06-21 16:13:44,NeoFi,Transfer failed but the money left my account. Fix this NeoFi!,-0.3489,Negative
+2026-06-21 16:13:44,NeoFi,Just received my new debit card from NeoFi in the mail.,0.0,Neutral
+2026-06-21 16:13:44,TrustUnion,Just got my loan approved by TrustUnion! So fast. 🚀,0.4753,Positive
+2026-06-21 16:13:46,NeoFi,Why did NeoFi block my card while I'm traveling?! Worst bank ever.,-0.807,Negative
+2026-06-21 16:13:50,TrustUnion,Reviewing the new interest rates posted by TrustUnion.,0.4588,Positive
+2026-06-21 16:13:54,NeoFi,Hidden fees on my account. Leaving NeoFi today. Unacceptable.,-0.4588,Negative
+2026-06-21 16:13:54,GlobalBank,Reviewing the new interest rates posted by GlobalBank.,0.4588,Positive
+2026-06-21 16:13:57,GlobalBank,Just got my loan approved by GlobalBank! So fast. 🚀,0.4753,Positive
+2026-06-21 16:13:57,TrustUnion,Been on hold for 40 minutes with TrustUnion support. Useless.,-0.0258,Neutral
+2026-06-21 16:13:57,TrustUnion,Just got my loan approved by TrustUnion! So fast. 🚀,0.4753,Positive
